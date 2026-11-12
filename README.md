@@ -92,8 +92,16 @@ Proxy serverless desenvolvido em **JavaScript + Cloudflare Workers** para conect
 
 ---
 
+#### 🎓 Smart Guide — Gerenciamento de treinamentos e documentações empresariais
+**Em desenvolvimento (ainda em repositório privado)**
+
+- **Problema enfrentado:** Documentos e treinamentos ficam espalhados em arquivos Word e PDF, difíceis de encontrar. Em alguns casos, o conhecimento fica concentrado em poucas pessoas.
+- **Proposta:** Criar uma plataforma interna para organizar e compartilhar documentos e treinamentos, permitir o acesso pelo celular mesmo offline e acompanhar o progresso de conclusão dos colaboradores.
+
+---
+
 #### 🧩 wApps — Construtor de aplicativos sem lock-in
-**Em desenvolvimento · Repositório privado**
+**Em desenvolvimento (ainda em repositório privado)**
 
 - **Problema enfrentado:** Criar sistemas simples e profissionais para necessidades específicas que soluções prontas nem sempre atendem, sem ficar preso a uma plataforma.
 - **Proposta:** Desenvolver um construtor open source que gere front-end e back-end exportáveis, permitindo criar sistemas personalizados e continuar usando o código fora da ferramenta.
