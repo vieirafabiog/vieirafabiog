@@ -105,7 +105,7 @@ Conecta bancos **Cloudflare D1 (SQLite)** ao **AppSheet**, **Power BI**, **Excel
 </table>
 
 **Stack:** TypeScript, Cloudflare Workers, Cloudflare D1 (SQLite) e OData v4.  
-**Explore:** [Repositório](https://github.com/vieirafabiog/D1Sheet) · [Demonstração e simulador](https://vieirafabiog.github.io/D1Sheet/)
+**Explore:** [Repositório](https://github.com/vieirafabiog/D1Sheet) · [Site Oficial](https://vieirafabiog.github.io/D1Sheet/)
 
 ---
 
@@ -157,7 +157,7 @@ Um proxy serverless em **JavaScript + Cloudflare Workers** que faz a ponte entre
 ---
 
 <a id="certificacoes"></a>
-## 📚 Estatísticas
+## 📚 Certificados
 
 <details>
   <summary><strong>Hashtag Treinamentos</strong> · 8 certificados</summary>
@@ -183,7 +183,7 @@ Um proxy serverless em **JavaScript + Cloudflare Workers** que faz a ponte entre
 ---
 
 <a id="estatisticas"></a>
-## 📊 GitHub em números
+## 📊 Estatísticas
 
 <p align="center">
   <img width="67%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vieirafabiog&theme=tokyonight" alt="Resumo das estatísticas do GitHub" />
