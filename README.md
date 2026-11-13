@@ -132,6 +132,26 @@ Um proxy serverless em **JavaScript + Cloudflare Workers** que faz a ponte entre
 
 ---
 
+### 🔁 [data-2-sql](https://github.com/vieirafabiog/data2sql) · Converter dados para SQL
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/OData_v4-0078D4?style=flat-square" alt="SQL" />
+</p>
+
+Converte **dados em diferentes formatos** para **SQL** para importar em qualquer banco de dados.
+
+<table>
+  <tr>
+    <td width="50%" valign="top"><strong>O problema</strong><br />Converter dados de diferentes formatos para importar manualmente para bancos de dados SQL.</td>
+    <td width="50%" valign="top"><strong>A solução</strong><br />Um site onde você pode anexar múltiplos tipos de arquivos de dados, tratar os tipos e gerar SQL para importar nos principais bancos de dados.</td>
+  </tr>
+</table>
+
+**Explore:** [Repositório](https://github.com/vieirafabiog/data2sql) · [Site Oficial](https://data-2-sql.web.app/)
+
+---
+
 ### 🎓 Smart Guide · Treinamentos e documentação empresarial
 *Em desenvolvimento · Repositório privado*
 
