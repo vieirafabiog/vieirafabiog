@@ -152,15 +152,17 @@ Converte **dados em diferentes formatos** para **SQL** para importar em qualquer
 
 ---
 
-### 🎓 Smart Guide · Treinamentos e documentação empresarial
-*Em desenvolvimento · Repositório privado*
+### 🎓 [Smart Guide](https://github.com/vieirafabiog/SmartGuide) · Treinamentos e documentação empresarial
+*Em desenvolvimento*
 
 <table>
   <tr>
     <td width="50%" valign="top"><strong>O problema</strong><br />Documentos e treinamentos ficam espalhados em arquivos Word e PDF, difíceis de encontrar. Às vezes, o conhecimento depende de uma única pessoa.</td>
-    <td width="50%" valign="top"><strong>A ideia</strong><br />Organizar conteúdos em uma plataforma interna, acessível pelo celular mesmo offline, com acompanhamento do progresso dos treinamentos.</td>
+    <td width="50%" valign="top"><strong>A solução</strong><br />Organizar conteúdos em uma plataforma interna, acessível pelo celular mesmo offline, com acompanhamento do progresso dos treinamentos.</td>
   </tr>
 </table>
+
+**Explore:** [Repositório](https://github.com/vieirafabiog/SmartGuide)
 
 ---
 
@@ -170,7 +172,7 @@ Converte **dados em diferentes formatos** para **SQL** para importar em qualquer
 <table>
   <tr>
     <td width="50%" valign="top"><strong>O problema</strong><br />Soluções prontas nem sempre atendem necessidades específicas, e algumas ferramentas prendem os projetos à própria plataforma.</td>
-    <td width="50%" valign="top"><strong>A ideia</strong><br />Criar um construtor open source que gere front-end e back-end exportáveis para desenvolver sistemas simples e profissionais, sem lock-in.</td>
+    <td width="50%" valign="top"><strong>A ideia</strong><br />Criar um construtor que gere front-end e back-end exportáveis para desenvolver sistemas simples e profissionais, sem lock-in.</td>
   </tr>
 </table>
 
