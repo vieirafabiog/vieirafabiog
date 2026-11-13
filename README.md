@@ -72,6 +72,20 @@ Fora do trabalho, estou sempre aprendendo sobre programação, computação e si
 <a id="projetos"></a>
 ## 🧩 Meus Projetos
 
+### 🎓 [Smart Guide](https://github.com/vieirafabiog/SmartGuide) · Treinamentos e documentação empresarial
+*Em desenvolvimento*
+
+<table>
+  <tr>
+    <td width="50%" valign="top"><strong>O problema</strong><br />Documentos e treinamentos ficam espalhados em arquivos Word e PDF, difíceis de encontrar. Às vezes, o conhecimento depende de uma única pessoa.</td>
+    <td width="50%" valign="top"><strong>A solução</strong><br />Organizar conteúdos em uma plataforma interna, acessível pelo celular mesmo offline, com acompanhamento do progresso dos treinamentos.</td>
+  </tr>
+</table>
+
+**Explore:** [Repositório](https://github.com/vieirafabiog/SmartGuide)
+
+---
+
 ### 🟠 [D1Sheet](https://github.com/vieirafabiog/D1Sheet) · OData v4 para Cloudflare D1
 
 <p>
@@ -149,20 +163,6 @@ Converte **dados em diferentes formatos** para **SQL** para importar em qualquer
 </table>
 
 **Explore:** [Repositório](https://github.com/vieirafabiog/data2sql) · [Site Oficial](https://data-2-sql.web.app/)
-
----
-
-### 🎓 [Smart Guide](https://github.com/vieirafabiog/SmartGuide) · Treinamentos e documentação empresarial
-*Em desenvolvimento*
-
-<table>
-  <tr>
-    <td width="50%" valign="top"><strong>O problema</strong><br />Documentos e treinamentos ficam espalhados em arquivos Word e PDF, difíceis de encontrar. Às vezes, o conhecimento depende de uma única pessoa.</td>
-    <td width="50%" valign="top"><strong>A solução</strong><br />Organizar conteúdos em uma plataforma interna, acessível pelo celular mesmo offline, com acompanhamento do progresso dos treinamentos.</td>
-  </tr>
-</table>
-
-**Explore:** [Repositório](https://github.com/vieirafabiog/SmartGuide)
 
 ---
 
