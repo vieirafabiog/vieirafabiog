@@ -28,8 +28,7 @@
   <a href="#origem">Por que criei</a> ·
   <a href="#como-funciona">Como funciona</a> ·
   <a href="#na-pratica">Na prática</a> ·
-  <a href="#decisoes-tecnicas">Decisões técnicas</a> ·
-  <a href="#proximos-passos">Próximos passos</a>
+  <a href="#decisoes-tecnicas">Decisões técnicas</a>
 </p>
 
 ---
@@ -182,19 +181,6 @@ src/
 O projeto conta ainda com suíte de testes automatizados cobrindo parsing, tradução SQL, metadados e operações CRUD localmente via Wrangler.
 
 </details>
-
----
-
-<a id="proximos-passos"></a>
-## 🗺️ Status e próximos passos
-
-O projeto está **em produção (v1.0)**, com licença MIT e deploy documentado para subir em poucos minutos na conta gratuita da Cloudflare.
-
-- [x] Leitura OData v4 (`$filter`, `$select`, `$orderby`, `$top`, `$skip`, `$count`)
-- [x] Geração dinâmica de `/$metadata` (EDMX) e paginação `@odata.nextLink`
-- [x] Operações de escrita completas (`POST`, `PATCH`, `PUT`, `DELETE`) com `RETURNING *`
-- [x] Site de documentação com simulador OData → SQLite em português e inglês
-- [ ] Roteamento multi-tenant para atender múltiplos bancos D1 por header ou subpath
 
 ---
 

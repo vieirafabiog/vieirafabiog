@@ -27,8 +27,7 @@
   <a href="#origem">Por que criei</a> ·
   <a href="#como-funciona">Como funciona</a> ·
   <a href="#na-pratica">Na prática</a> ·
-  <a href="#decisoes-tecnicas">Decisões técnicas</a> ·
-  <a href="#proximos-passos">Status e próximos passos</a>
+  <a href="#decisoes-tecnicas">Decisões técnicas</a>
 </p>
 
 ---
@@ -165,19 +164,6 @@ Escolhas feitas pensando no limite de CPU e memória dos Cloudflare Workers (esp
 O endpoint `/health` também fica exposto sem depender do Dataverse para checagem rápida do Worker durante desenvolvimento local (`npx wrangler dev`) ou monitoramento.
 
 </details>
-
----
-
-<a id="proximos-passos"></a>
-## 🗺️ Status e próximos passos
-
-O projeto está **funcional em produção no Cloudflare Workers**, compatível com modo virtualizado (via KV) e modo Pass-Through, pronto para conectar no AppSheet via `/api/data/v9.2`.
-
-- [x] Proxy OData v4 em Cloudflare Workers com cache de token OAuth 2.0 (Entra ID)
-- [x] Filtro de `$metadata` em tempo real e virtualização de colunas via Cloudflare KV
-- [x] Sanitização de GUIDs, headers `If-Match: *` e reescrita automática de `@odata.nextLink`
-- [x] Modo Pass-Through e script de deploy automatizado (`deploy.ps1`)
-- [ ] Adaptar a base do proxy para uma versão dedicada ao SharePoint
 
 ---
 

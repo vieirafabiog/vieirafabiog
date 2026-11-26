@@ -30,7 +30,7 @@
 | **SheetVerse** | Integração · Open Source | JavaScript · Cloudflare Workers · Dataverse · OData v4 | Proxy serverless que faz a ponte entre Google AppSheet e Microsoft Dataverse, simplificando OAuth 2.0 e filtrando metadados. | [Ver detalhes →](./SheetVerse/README.md) |
 | **data-2-sql** | Ferramenta Web | TypeScript · SQL | Converte arquivos de dados em diferentes formatos para scripts SQL prontos para importar nos principais bancos. | [Repositório →](https://github.com/vieirafabiog/data2sql) |
 | **Smart Guide** | Aplicação · Open Source | TypeScript · Fastify · Expo · PostgreSQL · Docker | Plataforma self-hosted de treinamentos e documentação operacional com acesso pelo celular (offline) e exportação em PDF. | [Ver detalhes →](./Smart%20Guide/README.md) |
-| **papyrus** | Aplicação | *Em desenvolvimento* | Gestão eletrônica de documentos com múltiplos storages, metadados estruturados e busca avançada no conteúdo. | *Em breve* |
+| **papyrus** | Aplicação · Open Source | TypeScript · Fastify · React · PostgreSQL · Docker | GED self-hosted com metadados tipados, versões imutáveis, busca no conteúdo, aprovações e múltiplos storages (Local, S3/MinIO e SharePoint). | [Ver detalhes →](./papyrus/README.md) |
 | **wApps** | Aplicação | *Em desenvolvimento* | Construtor de aplicativos que gera front-end e back-end exportáveis, sem prender o projeto à plataforma. | *Em breve* |
 
 ---
@@ -102,12 +102,20 @@ Plataforma self-hosted para centralizar procedimentos, manuais e treinamentos pa
 
 ---
 
-### 📃 papyrus · Gestão Eletrônica de Documentos
-*Em desenvolvimento · página do portfólio em preparação*
+### 📃 [papyrus](./papyrus/README.md) · Gestão Eletrônica de Documentos
+*v1.0.0-rc.1 · Em desenvolvimento*
 
-Organiza documentos em uma plataforma centralizada conectada a múltiplos storages, armazenando metadados estruturados junto aos arquivos e permitindo busca avançada direto no conteúdo dos documentos.
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" alt="Fastify" />
+  <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React 19" />
+  <img src="https://img.shields.io/badge/PostgreSQL_16-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL 16" />
+  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose" />
+</p>
 
-**Acesse:** [Repositório](https://github.com/vieirafabiog/papyrus)
+GED self-hosted via Docker Compose para organizar documentos com metadados tipados, versões imutáveis (*append-only*), busca no conteúdo dos arquivos, fluxos de aprovação, controle de vencimentos e múltiplos storages (Local, S3/MinIO e SharePoint).
+
+**Acesse:** [Página do projeto](./papyrus/README.md) · [Repositório](https://github.com/vieirafabiog/papyrus)
 
 ---
 

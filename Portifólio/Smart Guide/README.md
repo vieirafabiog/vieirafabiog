@@ -27,8 +27,7 @@
   <a href="#origem">Por que criei</a> ·
   <a href="#como-funciona">Como funciona</a> ·
   <a href="#fluxo">Fluxo de uso</a> ·
-  <a href="#decisoes-tecnicas">Decisões técnicas</a> ·
-  <a href="#status">Status</a>
+  <a href="#decisoes-tecnicas">Decisões técnicas</a>
 </p>
 
 ---
@@ -160,19 +159,6 @@ SmartGuide/
 - Inclui scripts prontos de backup compactado e restore do PostgreSQL (`docker/scripts/`).
 
 </details>
-
----
-
-<a id="status"></a>
-## 🗺️ Status
-
-O projeto está **em desenvolvimento ativo**, já com a arquitetura principal, deploy via Docker Compose, suíte de testes no backend e documentação técnica completa em três idiomas publicados no repositório.
-
-- [x] API REST (`sg-api`) com RBAC, Better Auth (e-mail/SSO), API externa e Swagger local
-- [x] Conectores de storage: Local, S3/MinIO/R2, Azure Blob e SharePoint
-- [x] App universal (`sg-web`) com Web, mobile BYOS via QR Code, modo offline e exportação em PDF
-- [x] Internacionalização completa (`pt-BR`, `en`, `es`) e guias de uso
-- [ ] Adição de capturas de tela da interface nesta página e refinamentos contínuos
 
 ---
 

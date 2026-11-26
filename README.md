@@ -98,12 +98,12 @@ Fora do trabalho, estou sempre aprendendo sobre programação, computação e si
 
 <table>
   <tr>
-    <td width="50%" valign="top"><strong>O problema</strong><br />Os cocumentos ficam espalhados em vários locais diferentes, difíceis de encontrar, pois tem que abrir cada arquivo para conseguir achar o que precisa.</td>
+    <td width="50%" valign="top"><strong>O problema</strong><br />Os documentos ficam espalhados em vários locais diferentes, difíceis de encontrar, pois tem que abrir cada arquivo para conseguir achar o que precisa.</td>
     <td width="50%" valign="top"><strong>A solução</strong><br />Organizar os documentos em uma plataforma centralizada que permite conectar múltiplos storages de arquivos para armazenar, além dos arquivos, os metadados e fazer buscas avançadas em conteúdos de documentos.</td>
   </tr>
 </table>
 
-**Explore:** [Repositório](https://github.com/vieirafabiog/papyrus)
+**Explore:** [Portfólio](./Portif%C3%B3lio/papyrus/README.md) · [Repositório](https://github.com/vieirafabiog/papyrus)
 
 ---
 
